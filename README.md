@@ -1,2 +1,8 @@
-## Code Refactor
-This branch contains refactored code(Held for review before merging with the **dev** branch)
+## Swyft Mart(*Back End*)
+* This repository is a comprehensive collection of essential components that power the platform's seamless operation. At its core, the repository houses a robust database management system, meticulously designed to handle the platform's data storage and retrieval needs efficiently. The repository encompasses a range of meticulously crafted database procedures that ensure optimal performance and maintain data integrity.
+
+* In addition to the database procedures, the repository also includes the Server component, which forms the backbone of SwyftMart's Back-End infrastructure. The Server acts as a gateway, facilitating seamless communication between the platform's front-end interface and the underlying data sources. It efficiently processes incoming requests, retrieves and updates data from the database, and delivers the desired results to the users.
+
+* To ensure uninterrupted operation and enhance the user experience, the Back-End repository also incorporates Background services. These services run autonomously in the background, performing critical tasks such as data synchronization, real-time notifications, and scheduled maintenance processes. By offloading these operations to dedicated Background services, SwyftMart can efficiently manage and optimize system resources, ensuring a smooth and reliable platform performance.
+
+* Overall, this repository is a comprehensive and well-organized collection of database procedures, Server components, and Background services that collectively power the platform's functionality, reliability, and user satisfaction.
